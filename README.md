@@ -6,28 +6,28 @@ Hay muchas guías en línea para usar estas tecnologías, algunas recomendacione
 * Markdown: https://guides.github.com/features/mastering-markdown/.
 * Jupyer notebooks: https://jupyter.org/, https://nbviewer.jupyter.org/github/jupyter/notebook/tree/master/docs/source/examples/Notebook/, https://colab.research.google.com.
 
-Mas dudas?, escríbele a los organizadores :) o pon un [github issue](https://help.github.com/en/articles/creating-an-issue).
+Más dudas?, escríbele a los organizadores :) o pon un [github issue](https://help.github.com/en/articles/creating-an-issue).
 
 ## Cómo usarlo para mi propio taller?
 
 1. Crea tu propio [github repo](https://help.github.com/en/articles/create-a-repo).
 2. Clona este [repo](https://help.github.com/en/articles/cloning-a-repository).
-3. Copia los archivos a tu repo, elimina los archivos que no sean necesario (hay algunos de ejemplo).
+3. Copia los archivos a tu repo, elimina los archivos que no sean necesarios (hay algunos de ejemplo).
 4. Edita y llena el repo con datos/código/notebooks y un README.md especifico para tu taller.
 
 ## Organización del repositorio
 
-La estructura está inspirado en una versión lite de [cookie cutter data science project](https://drivendata.github.io/cookiecutter-data-science/):
+La estructura está inspirada en una versión lite de [cookie cutter data science project](https://drivendata.github.io/cookiecutter-data-science/):
 
-* **data/**: folder de datos para tu taller. Es recomendable enfocarse en un dataset o dos durante el workshop (vs varios), asi los talleristas podrán profundizar en aspectos específico de los datos y después enfocar su atención a la parte algorítmica/teoria del taller.
+* **data/**: folder de datos para tu taller. Es recomendable enfocarse en un dataset o dos durante el workshop (vs varios), así los talleristas podrán profundizar en aspectos específicos de los datos y después enfocar su atención a la parte algorítmica/teoría del taller.
 * **code/**: funciones de utilidad para usar en los notebooks.
 * **notebook/**: jupyter notebooks que se pueden lanzar en colab. Enumera los notebook en orden de uso.
-* **media/**: imagenes para usar en tus notebooks y repo.
+* **media/**: imágenes para usar en tus notebooks y repo.
 * **environment.yml**: archivos anaconda para replicar el software stack localmente.
-* **README.md**: archivo markdown de entrada para la pagina y tu taller.
+* **README.md**: archivo markdown de entrada para la página y tu taller.
 
 ## Mejoras? sugerencias?
-Manda un [pull request](https://help.github.com/en/articles/about-pull-requests), lo evaluaremos, empezaremos una discusion y si es buena idea lo incorporaremos.
+Manda un [pull request](https://help.github.com/en/articles/about-pull-requests), lo evaluaremos, empezaremos una discusión y si es buena idea lo incorporaremos.
 
 ## Instrucciones para estudiantes
 
